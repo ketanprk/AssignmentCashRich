@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AssignmentCashRich</string>
+    <string name="errorString">\"Error Fetching Value\"</string>
+</resources>
